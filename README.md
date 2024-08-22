@@ -55,10 +55,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-#### ☕ You are my ![Visitor Count](https://profile-counter.glitch.me/你的Github用户名/count.svg) visitor, thank you!
+#### ☕ You are my ![Visitor Count](https://profile-counter.glitch.me/ziqiveronica/count.svg) visitor, thank you!
 
 
-![](https://github-readme-stats.vercel.app/api?username=ziqiveronicae&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=ziqiveronica&show_icons=true&theme=transparent)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=ziqiveronica&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziqiveronica&layout=compact&theme=tokyonight)
