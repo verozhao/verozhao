@@ -3,8 +3,8 @@
 
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Graduate](https://img.shields.io/badge/Certificate-Cornell-red)
 
-🎓 Welcome to my Github page! I am Veronica and I am currently finishing my Computer Science and Data Science bachelor degree with a Minor in Business Studies at New York University!
-#### ☕ You are my ![Visitor Count](https://profile-counter.glitch.me/ziqiveronica/count.svg) visitor, thank you!
+🎓 Welcome to my Github page! I am Veronica and I am currently finishing my Computer Science and Data Science bachelor degree with a Minor in Business Studies at New York University
+#### ☕ You are my ![Visitor Count](https://profile-counter.glitch.me/ziqiveronica/count.svg) visitor, thank you:)
 
 - 🔬 My areas of interest include Machine Learning, Data Science, AI, and Natural Language Processing.
 - 🚀 I'm seeking opportunities in Data Science and AI research.
