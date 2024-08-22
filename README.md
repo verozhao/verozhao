@@ -10,7 +10,7 @@
 
 ## Education
 - **New York University** - B.A., Computer Science and Data Science (Expected 05/2025)
-  - GPA: 3.74/4.00, Dean's List, Women in Science Scholar
+  - Dean's List, Women in Science Scholar
 - **Cornell University** - Machine Learning Foundations Certificate
 
 ## Skills
