@@ -36,7 +36,7 @@
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/matlab/matlab-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
@@ -46,6 +46,9 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe/adobe-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ibm_spss/ibm_spss-ar21.svg"></code>
 </p>
 
 
