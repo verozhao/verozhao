@@ -15,15 +15,21 @@
 - **Cornell University** - Machine Learning Foundations Certificate
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science and Data Science Undergrad Degree  
+- Finish my Computer Science and Data Science Undergrad Degree
+- Taking Computer System Organization and Algorithm courses
+- Serving as a tutor for Machine Learning FML course
+- Doing a research assistant job in a lab
 - Taking online courses about Data Science and Machine Learning
+- Submitting job applications for summer interns and full time data scientist positions
 - Collaborating and contributing on new projects
+- Thinking about new possibilities...
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
+- Practicing 3 Leetcode problems per day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Improving my CV with some internship apart from university
 
 #### :computer: Programming languages and tools:
 
