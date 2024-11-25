@@ -26,7 +26,7 @@
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Coding at least 2 hours a day
 - Practicing 3 Leetcode problems per day
 - Exercising 3 days a week
 - Improving my CV with some internship apart from university
