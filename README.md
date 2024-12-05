@@ -9,7 +9,10 @@
 - 🔬 My areas of interest include Machine Learning, Data Science, AI, and Natural Language Processing.
 - 🚀 I'm seeking opportunities in Data Science and AI research.
 
-## Education
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=ashleyliu0407&repo=Google-Developer-Group-CV)](https://github.com/ashleyliu0407/Google-Developer-Group-CV)
+
+
+### Education
 - **New York University** - B.A., Computer Science and Data Science (Expected 05/2025)
   - Dean's List, Women in Science Scholar
 - **Cornell University** - Machine Learning Foundations Certificate
