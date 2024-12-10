@@ -10,7 +10,7 @@
 - 🚀 I'm seeking opportunities in Data Science and AI research.
 
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=ashleyliu0407&repo=Google-Developer-Group-CV)](https://github.com/ashleyliu0407/Google-Developer-Group-CV)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rishitadhalbisoi&repo=google3D)](https://github.com/rishitadhalbisoi/google3D)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rishitadhalbisoi&repo=google3D)](https://github.com/rishitadhalbisoi/google3D/tree/contributors/veronica)
 
 
 ### Education
