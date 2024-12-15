@@ -3,6 +3,9 @@
 
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Graduate](https://img.shields.io/badge/Certificate-Cornell-red)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 🎓 Welcome to my Github page! I am Veronica and I am currently finishing my Computer Science and Data Science bachelor degree with a Minor in Business Studies at New York University
 
 <div style="display: flex; align-items: center; gap: 4px;">
@@ -54,7 +57,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
