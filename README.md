@@ -19,7 +19,7 @@
 ### Education
 - **New York University** - B.A., Computer Science and Data Science (Expected 05/2025)
   - Dean's List, Women in Science Scholar
-- **Cornell University** - Machine Learning Foundations Certificate
+- **Cornell University** - Break Through AI Fellow, Certificate in Machine Learning Foundations
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science and Data Science Undergrad Degree
