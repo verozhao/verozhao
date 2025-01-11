@@ -1,5 +1,6 @@
 ### Hi there 👋 
 ### This is Veronica Zhao!
+https://verozhao.github.io/
 
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Graduate](https://img.shields.io/badge/Certificate-Cornell-red)
 
@@ -23,11 +24,11 @@
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science and Data Science Undergrad Degree
-- Taking Computer System Organization and Algorithm courses
+- Taking Natural Language Processing and Agile Software Developement and DevOps
 - Serving as a tutor for NYU Machine Learning FML course
 - Doing a research assistant job in a lab
 - Taking online courses about Data Science and Machine Learning
-- Submitting job applications for summer interns and full time data scientist positions
+- Submitting job applications for summer interns and full time data scientist and software engineer positions
 - Collaborating and contributing on new projects
 - Thinking about new possibilities...
 
@@ -35,7 +36,7 @@
 - Waking up earlier to make good use of the day
 - Coding at least 2 hours a day
 - Practicing 3 Leetcode problems per day
-- Exercising 3 days a week
+- Exercising 7 days a week
 - Improving my CV with some internship apart from university
 
 #### :computer: Programming languages and tools:
