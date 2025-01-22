@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Veronica Zhao!
+### This is Veronica!
 https://verozhao.github.io/
 
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Graduate](https://img.shields.io/badge/Certificate-Cornell-red)
