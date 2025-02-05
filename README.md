@@ -57,3 +57,5 @@ https://verozhao.github.io/
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao)](https://github.com/verozhao/github-readme-stats)
