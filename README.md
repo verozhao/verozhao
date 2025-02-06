@@ -58,4 +58,6 @@ https://verozhao.github.io/
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao&hide_progress=true)](https://github.com/verozhao/github-readme-stats&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao)](https://github.com/verozhao/github-readme-stats)
+
+[![Veronica's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=verozhao)](https://github.com/verozhao/github-readme-stats)
