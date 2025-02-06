@@ -59,5 +59,3 @@ https://verozhao.github.io/
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao)](https://github.com/verozhao/github-readme-stats)
-
-[![Veronica's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=verozhao)](https://github.com/verozhao/github-readme-stats)
