@@ -18,7 +18,7 @@ https://verozhao.github.io/
 - 🚀 I'm seeking opportunities in Data Science and AI research.
 
 ### Education
-- **New York University** - B.A., Computer Science and Data Science (Expected 05/2025)
+- **New York University** - B.A., Joint Major in Computer Science and Data Science (Expected 05/2025)
   - Dean's List all semesters, Women in Science Scholar
 - **Cornell University** - Break Through AI Fellow, Certificate in Machine Learning Foundations
 
