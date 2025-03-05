@@ -59,4 +59,7 @@ https://verozhao.github.io/
 </p>
 
 <img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height='160'> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao&hide_progress=true&theme=radical" height='160'>
-
+</div>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=verozhao&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
