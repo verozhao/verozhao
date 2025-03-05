@@ -25,7 +25,6 @@ https://verozhao.github.io/
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science and Data Science Undergrad Degree
 - Taking Natural Language Processing and Agile Software Developement and DevOps
-- Serving as a tutor for NYU Machine Learning FML course
 - Doing a research assistant job in a lab
 - Taking online courses about Data Science and Machine Learning
 - Submitting job applications for summer interns and full time data scientist and software engineer positions
