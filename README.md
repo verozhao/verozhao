@@ -55,10 +55,10 @@ https://verozhao.github.io/
 </p>
 
 <a href="https://github.com/verozhao/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=false&count_private=true&card_width=100" />
+  <img height=180 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=false&count_private=true" />
 </a>
 <a href="https://github.com/verozhao/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao&hide_progress=true&theme=radical&hide=jupyternotebook&count_private=true&langs_count=20&card_width=100" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao&hide_progress=true&theme=radical&hide=jupyternotebook&count_private=true&langs_count=20" />
 </a>
 
 </div>
