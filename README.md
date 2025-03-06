@@ -64,5 +64,5 @@ https://verozhao.github.io/
 </div>
 
 <a href="https://github.com/verozhao/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=verozhao&theme=default&hide_border=true&radius=4.5" alt="Activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=verozhao&theme=xcode&hide_border=true&radius=4.5" alt="Activity graph">
 </a>
