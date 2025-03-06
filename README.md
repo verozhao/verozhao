@@ -7,6 +7,7 @@ https://verozhao.github.io/
 ![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+
 🎓 Welcome to my Github page! I am Veronica and I am currently finishing my Computer Science and Data Science bachelor degree with a Minor in Business Studies at New York University
 
 <div style="display: flex; align-items: center; gap: 4px;">
@@ -57,8 +58,15 @@ https://verozhao.github.io/
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
 
-<img src = "https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height='160'> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao&hide_progress=true&theme=radical" height='160'>
+<a href="https://github.com/verozhao/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=false&count_private=true&card_width=200" />
+</a>
+<a href="https://github.com/verozhao/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao&hide_progress=true&theme=radical&hide=jupyternotebook&count_private=true&langs_count=20&card_width=200" />
+</a>
+
 </div>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=verozhao&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
