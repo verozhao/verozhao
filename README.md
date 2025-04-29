@@ -2,7 +2,7 @@
 ### This is Veronica!
 https://verozhao.github.io/
 
-![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-red)  ![Graduate](https://img.shields.io/badge/Graduate-Columbia-blue) 
+![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-black)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red) 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
