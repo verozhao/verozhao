@@ -19,16 +19,15 @@ https://verozhao.github.io/
 - 🚀 I'm seeking opportunities in Data Science and AI research.
 
 ### Education
-- **New York University** - B.A., Joint Major in Computer Science and Data Science (Expected 05/2025)
-  - Dean's List all semesters, Women in Science Scholar
+- **Carnegie Mellon University** - M.S., Artificial Intelligence Engineering (Expected 2026)
+- **New York University** - B.A., Joint Major in Computer Science and Data Science
+  - Dean's List all semesters, Women in Science Scholar, University Honors Scholar, Founders Day Award
 - **Cornell University** - Break Through AI Fellow, Certificate in Machine Learning Foundations
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science and Data Science Undergrad Degree
+- Finish my Artificial Intelligence Engineering master Degree
 - Taking Natural Language Processing and Agile Software Developement and DevOps
-- Doing a research assistant job in a lab
 - Taking online courses about Data Science and Machine Learning
-- Submitting job applications for summer interns and full time data scientist and software engineer positions
 - Collaborating and contributing on new projects
 - Thinking about new possibilities...
 
@@ -37,7 +36,6 @@ https://verozhao.github.io/
 - Coding at least 2 hours a day
 - Practicing 3 Leetcode problems per day
 - Exercising 7 days a week
-- Improving my CV with some internship apart from university
 
 #### :computer: Programming languages and tools:
 <p>
