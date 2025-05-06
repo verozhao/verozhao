@@ -24,20 +24,20 @@ https://verozhao.github.io/
   - Dean's List all semesters, Women in Science Scholar, University Honors Scholar, Founders Day Award
 - **Cornell University** - Break Through AI Fellow, Certificate in Machine Learning Foundations
 
-#### 🌱 Things I am currently working on: 
+### 🌱 **Things I am currently working on:**
 - Finish my Artificial Intelligence Engineering master Degree
 - Taking Natural Language Processing and Agile Software Developement and DevOps
 - Taking online courses about Data Science and Machine Learning
 - Collaborating and contributing on new projects
 - Thinking about new possibilities...
 
-#### :muscle: Things I am challenging myself with:
+### :muscle: **Things I am challenging myself with:**
 - Waking up earlier to make good use of the day
 - Coding at least 2 hours a day
 - Practicing 3 Leetcode problems per day
 - Exercising 7 days a week
 
-#### :computer: Programming languages and tools:
+### :computer: **Programming languages and tools:**
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
