@@ -8,21 +8,21 @@ https://verozhao.github.io/
 ![github contribution grid snake animation](https://raw.githubusercontent.com/verozhao/verozhao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-🎓 Welcome to my Github page! I am Veronica and I am currently finishing my Computer Science and Data Science bachelor degree with a Minor in Business Studies at New York University
+Welcome to my Github page! I am Veronica and I am currently finishing my Computer Science and Data Science bachelor degree with a Minor in Business Studies at New York University
 
 <div style="display: flex; align-items: center; gap: 4px;">
   
-#### ☕  You are my No. <img src="https://profile-counter.glitch.me/ziqiveronica/count.svg" alt="Visitor Count" style="height: 1em;"/> visitor, Thank you for visiting!
+### ☕  You are my No. <img src="https://profile-counter.glitch.me/ziqiveronica/count.svg" alt="Visitor Count" style="height: 1em;"/> visitor, Thank you for visiting!
 </div>
 
-- 🔬 My areas of interest include Machine Learning, Data Science, AI, and Natural Language Processing.
-- 🚀 I'm seeking opportunities in Data Science and AI research.
+- My areas of interest include Machine Learning, Data Science, AI, and Natural Language Processing.
+- I'm seeking opportunities in Data Science and AI research.
 
-### Education
-- **Carnegie Mellon University** - M.S., Artificial Intelligence Engineering (Expected 2026)
-- **New York University** - B.A., Joint Major in Computer Science and Data Science
+### 📖 Education
+- Carnegie Mellon University - M.S., Artificial Intelligence Engineering (Expected 2026)
+- New York University - B.A., Joint Major in Computer Science and Data Science
   - Dean's List all semesters, Women in Science Scholar, University Honors Scholar, Founders Day Award
-- **Cornell University** - Break Through AI Fellow, Certificate in Machine Learning Foundations
+- Cornell University - Break Through AI Fellow, Certificate in Machine Learning Foundations
 
 ### 🌱 **Things I am currently working on:**
 - Finish my Artificial Intelligence Engineering master Degree
