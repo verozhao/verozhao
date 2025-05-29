@@ -32,7 +32,6 @@ Welcome to my Github page! I am Veronica and I am currently finishing my Compute
 ### :muscle: **Things I am challenging myself with:**
 - Waking up at 7 AM everyday to make good use of the day
 - Coding at least 2 hours a day
-- Practicing 3 Leetcode problems per day
 - Exercising 7 days a week
 
 ### :computer: **Programming languages and tools:**
@@ -58,7 +57,3 @@ Welcome to my Github page! I am Veronica and I am currently finishing my Compute
 </a>
 
 </div>
-
-<a href="https://github.com/verozhao/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=verozhao&theme=xcode&hide_border=true&radius=4.5" alt="Activity graph">
-</a>
