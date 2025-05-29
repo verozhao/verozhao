@@ -26,14 +26,11 @@ Welcome to my Github page! I am Veronica and I am currently finishing my Compute
 - Cornell University - Break Through AI Fellow, Certificate in Machine Learning Foundations
 
 ### 🌱 **Things I am currently working on:**
-- Finish my Artificial Intelligence Engineering master Degree
-- Taking Natural Language Processing and Agile Software Developement and DevOps
-- Taking online courses about Data Science and Machine Learning
+- Finishing my Artificial Intelligence Engineering master Degree
 - Collaborating and contributing on new projects
-- Thinking about new possibilities...
 
 ### :muscle: **Things I am challenging myself with:**
-- Waking up earlier to make good use of the day
+- Waking up at 7 AM everyday to make good use of the day
 - Coding at least 2 hours a day
 - Practicing 3 Leetcode problems per day
 - Exercising 7 days a week
