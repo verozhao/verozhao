@@ -50,7 +50,7 @@ Welcome to my Github page! I am Veronica and I am currently finishing my Compute
 </p>
 
 <a href="https://github.com/verozhao/github-readme-stats">
-  <img height=179.5 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=4.5" />
+  <img height=179.5 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&show=reviews&include_all_commits=true&count_private=true&border_radius=4.5&hide=stars" />
 </a>
 <a href="https://github.com/verozhao/convoychat">
   <img height=179.5 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verozhao&hide_progress=true&theme=radical&hide=jupyternotebook&count_private=true&langs_count=20&border_radius=4.5" />
