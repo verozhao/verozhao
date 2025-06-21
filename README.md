@@ -22,6 +22,26 @@ Welcome to my Github page! I am Veronica and I am currently finishing my AI Engi
 </div>
 
 
-[![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/verozhao/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/verozhao/github-profile-summary-cards) [![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/verozhao/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/verozhao/github-profile-summary-cards) [![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/verozhao/github-profile-summary-cards)
+<p align="center">
+	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Profile Details">
+      	<img align="center" width="100%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Profile Details" />
+   	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Repos Per Language">
+      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Repos Per Language" />
+   	</a>
+	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Most Commit Language">
+      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Most Commit Language" />
+   	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Stats">
+      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/3-stats.svg" alt="Stats" />
+   	</a>
+	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Productive Time">
+      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive Time" />
+   	</a>
+</p>
