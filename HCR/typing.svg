@@ -33,7 +33,6 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Hi there 👋, Welcome to HCR!
         </textPath>
     </text>
         <path id='path1'>
@@ -47,7 +46,6 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            Fill in the following information to get the recommendation
         </textPath>
     </text>
 </svg>
