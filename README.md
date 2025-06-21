@@ -1,8 +1,8 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there,+This+is+Veronica!;Always+learning+new+things.+;)](https://git.io/typing-svg)
-### Hi there![IMG_6211](https://github.com/user-attachments/assets/b2f66c40-cca3-474f-a7fd-eb7ac24a3894)
+### Hi there![](https://github.com/user-attachments/assets/b2f66c40-cca3-474f-a7fd-eb7ac24a3894)
 ### This is Veronica! 
 
-https://verozhao.github.io/ 
+https://verozhao.github.io/
 
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-yellow)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red)  
 
@@ -12,12 +12,7 @@ https://verozhao.github.io/
    	</a>
 </p>
 
-<p align="center">
-	<a href="https://raw.githubusercontent.com/verozhao/github-profile-3d-contrib/profile-night-rainbow.svg" title="Hi">
-      	<img align="center" width=100% src="https://raw.githubusercontent.com/verozhao/github-profile-3d-contrib/profile-night-rainbow.svg" width="1000" alt="TROPHY" />
-   	</a>
-</p>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 Welcome to my Github page! I am Veronica and I am currently finishing my AI Engineering degree at Carnegie Mellon University
 
