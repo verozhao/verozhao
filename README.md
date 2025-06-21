@@ -8,7 +8,7 @@ https://verozhao.github.io/
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=verozhao&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
+      	<img align="center" width=99% src="https://github-profile-trophy.vercel.app/?username=verozhao&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
    	</a>
 </p>
 
@@ -24,24 +24,24 @@ Welcome to my Github page! I am Veronica and I am currently finishing my AI Engi
 
 <p align="center">
 	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Profile Details">
-      	<img align="center" width="100%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Profile Details" />
+      	<img align="center" width="99%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Profile Details" />
    	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Repos Per Language">
-      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Repos Per Language" />
+      	<img align="center" width="49.5%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Repos Per Language" />
    	</a>
 	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Most Commit Language">
-      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Most Commit Language" />
+      	<img align="center" width="49.5%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Most Commit Language" />
    	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Stats">
-      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/3-stats.svg" alt="Stats" />
+      	<img align="center" width="49.5%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/3-stats.svg" alt="Stats" />
    	</a>
 	<a href="https://github.com/verozhao/github-profile-summary-cards" title="Productive Time">
-      	<img align="center" width="49%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive Time" />
+      	<img align="center" width="49.5%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive Time" />
    	</a>
 </p>

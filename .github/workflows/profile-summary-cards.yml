@@ -3,7 +3,7 @@ name: GitHub-Profile-Summary-Cards
 on:
   create:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,3 +19,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 4
