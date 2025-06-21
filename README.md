@@ -13,17 +13,9 @@ https://verozhao.github.io/
 </p>
 
 <p align="center">
-	<table>
-		<tr>
-		<td align="center">
-		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/verozhao/verozhao/profile-3d-contrib/profile-night-green.svg?clear=1" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/verozhao/verozhao/profile-3d-contrib/profile-green-animate.svg?clear=1" />
-		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/verozhao/verozhao/profile-3d-contrib/profile-green-animate.svg?clear=1" width="80%" />
-		    </picture>
-		</td>
-		</tr>
-	</table>
+	<a href="https://raw.githubusercontent.com/verozhao/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" title="Hi">
+      	<img align="center" width=100% src="https://raw.githubusercontent.com/verozhao/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="1000" alt="TROPHY" />
+   	</a>
 </p>
 
 Welcome to my Github page! I am Veronica and I am currently finishing my AI Engineering degree at Carnegie Mellon University
