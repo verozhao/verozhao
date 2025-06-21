@@ -28,8 +28,8 @@ Welcome to my Github page! I am Veronica and I am currently finishing my AI Engi
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~alt.svg"></code>
-</p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~alt.svg"></code> 
+</p> 
 
 <a href="https://github.com/verozhao/github-readme-stats">
   <img height=179.5 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=verozhao&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&show=reviews&include_all_commits=true&count_private=true&border_radius=4.5&hide=stars" />
