@@ -8,7 +8,7 @@ https://verozhao.github.io/
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=99% src="https://github-profile-trophy.vercel.app/?username=verozhao&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
+      	<img align="center" width=99% src="https://github-profile-trophy.vercel.app/?username=verozhao&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" width="1000" alt="TROPHY" />
    	</a>
 </p>
 
