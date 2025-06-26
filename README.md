@@ -4,7 +4,7 @@
 
 https://verozhao.github.io/
 
-![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-yellow)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red)  [![wakatime](https://wakatime.com/badge/user/ccb0790f-c26a-4c86-90e2-3671c2ece024.svg)](https://wakatime.com/@ccb0790f-c26a-4c86-90e2-3671c2ece024)
+![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-yellow)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red) 
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
