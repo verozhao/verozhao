@@ -17,7 +17,8 @@ https://verozhao.github.io/
 Welcome to my Github page! I am Veronica and I am currently finishing my AI Engineering degree at Carnegie Mellon University
 
 <div style="display: flex; align-items: center; gap: 4px;">
-  
+
+<!--
 ### ☕  You are my No. <img src="https://profile-counter.glitch.me/ziqiveronica/count.svg" alt="Visitor Count" style="height: 1em;"/> visitor, Thank you for visiting!
 </div>
 
@@ -45,3 +46,4 @@ Welcome to my Github page! I am Veronica and I am currently finishing my AI Engi
       	<img align="center" width="49.5%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive Time" />
    	</a>
 </p>
+-->
