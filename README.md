@@ -6,11 +6,11 @@ https://verozhao.github.io/
 
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-yellow)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red) 
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       	<img align="center" width=99% src="https://github-profile-trophy.vercel.app/?username=verozhao&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" width="1000" alt="TROPHY" />
    	</a>
-</p>
+</p> -->
 
 ![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-3d-contrib/profile-night-rainbow.svg)
 
