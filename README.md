@@ -2,8 +2,6 @@
 ### Hi there![](https://github.com/user-attachments/assets/b2f66c40-cca3-474f-a7fd-eb7ac24a3894)
 ### This is Veronica! 
 
-https://verozhao.github.io/
-
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-yellow)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red) 
 
 <!-- <p align="center">
