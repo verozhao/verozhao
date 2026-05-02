@@ -1,7 +1,10 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there,+This+is+Veronica!;Always+learning+new+things.+;)](https://git.io/typing-svg)
-### Hi there![](https://github.com/user-attachments/assets/b2f66c40-cca3-474f-a7fd-eb7ac24a3894)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there,+This+is+Veronica!;Always+learning+new+things.+;Welcome+to+my+Github+page!;)](https://git.io/typing-svg)
+ 
+ ![](https://github.com/user-attachments/assets/b2f66c40-cca3-474f-a7fd-eb7ac24a3894)
+<!--
+### Hi there
 ### This is Veronica! 
-
+-->
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-yellow)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red) 
 
 <!--
@@ -13,9 +16,9 @@
 -->
 
 ![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-3d-contrib/profile-night-rainbow.svg)
-
+<!--
 Welcome to my Github page!
-
+-->
 <div style="display: flex; align-items: center; gap: 4px;">
 
 <!--
