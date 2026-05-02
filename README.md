@@ -4,11 +4,11 @@
 
 ![Undergraduate](https://img.shields.io/badge/Undergraduate-NYU-purple) ![Certificate](https://img.shields.io/badge/Certificate-Cornell-yellow)  ![Graduate](https://img.shields.io/badge/Graduate-CMU-red) 
 
-<!-- <p align="center">
+ <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       	<img align="center" width=99% src="https://github-profile-trophy.vercel.app/?username=verozhao&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" width="1000" alt="TROPHY" />
    	</a>
-</p> -->
+</p>
 
 ![](https://raw.githubusercontent.com/verozhao/verozhao/main/profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -16,7 +16,7 @@ Welcome to my Github page! I am Veronica and I am currently finishing my AI Engi
 
 <div style="display: flex; align-items: center; gap: 4px;">
 
-<!--
+
 ### ☕  You are my No. <img src="https://profile-counter.glitch.me/ziqiveronica/count.svg" alt="Visitor Count" style="height: 1em;"/> visitor, Thank you for visiting!
 </div>
 
@@ -44,4 +44,3 @@ Welcome to my Github page! I am Veronica and I am currently finishing my AI Engi
       	<img align="center" width="49.5%" src="https://raw.githubusercontent.com/verozhao/verozhao/main/profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive Time" />
    	</a>
 </p>
--->
